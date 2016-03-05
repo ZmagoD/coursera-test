@@ -5,3 +5,7 @@ body{
   padding:5px;
   border-radius:0px;
 }
+
+.container-fluid{
+  min-height:1000px;
+}

@@ -9,3 +9,7 @@ body{
 .container-fluid{
   min-height:1000px;
 }
+
+.nav li{
+  background-color:#337ab7;
+}
